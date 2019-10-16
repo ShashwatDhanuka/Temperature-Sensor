@@ -1,0 +1,4 @@
+Arduino Uno
+LM35 Temperature Sensor
+16*2 LCD Unit
+External Power SUpply
